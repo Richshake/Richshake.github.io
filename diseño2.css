@@ -1,0 +1,30 @@
+body{
+    background-image:  linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(img/is.jpg);
+    background-repeat: no-repeat ;
+     background-position: 50px 20px;
+     background-position: center center;
+     height: 1800px;
+     background-attachment: fixed;
+     background-size: cover; 
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     font-size: 25px;
+     
+
+
+
+    }
+
+
+    p{
+        color:white;
+
+    }
+
+    h1{
+        color: white;
+    }
+
+    a{
+        color:cyan
+    }
+
